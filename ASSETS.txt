@@ -1,0 +1,15 @@
+Put these files next to index.html (create the two folders):
+
+images/vj.jpg                  your portrait, roughly square, 800px+ wide
+videos/dashboard-demo.mp4      live dashboard (featured, top of "Work")
+videos/comment-to-dm.mp4       comment -> reply -> DM
+videos/x-tool.mp4              X comment-to-DM tool
+videos/whatsapp-engine.mp4     WhatsApp lead engine (when ready)
+
+Until a file exists, its slot shows "Video coming soon". Nothing else to change.
+
+Video tips:
+- MP4 (H.264), 60-90 seconds, under ~20 MB each. GitHub blocks files over 100 MB.
+- Blur client names, phone numbers and any real lead data.
+- No API keys, tokens, .env files or terminals showing secrets in frame.
+- Remember the repo is public: anything you upload is public.
